@@ -201,28 +201,6 @@ AI-powered React Native Application
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atishay027&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atishay027&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atishay027&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🌐 Portfolio
-
-🔗 **https://rv-atishay-portfolio.vercel.app/**
-
----
-
 # 📫 Connect with Me
 
 - 🌐 Portfolio: https://rv-atishay-portfolio.vercel.app/
