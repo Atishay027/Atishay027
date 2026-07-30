@@ -1,4 +1,4 @@
-```md
+
 # Hi there 👋 I'm Atishay Jain
 
 <h3 align="center">
@@ -235,4 +235,4 @@ AI-powered React Native Application
 ⭐ **Thanks for visiting my GitHub profile!**
 
 If you like my work or would like to collaborate on exciting mobile or full-stack projects, feel free to connect with me. I'm always open to building impactful products and learning new technologies. 🚀
-```
+
